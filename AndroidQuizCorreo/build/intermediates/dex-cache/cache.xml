@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/miguelrocha/AndroidStudioProjects/androidquiz-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="33d6fc4d745b09d0b6d05a4abd3c3e927018f22f">
+        <dex dex="/home/miguelrocha/AndroidStudioProjects/androidquiz-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ae8ae508b401f0e593f2c4f8abc7625197bafa8e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/miguelrocha/AndroidStudioProjects/androidquiz-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="/home/miguelrocha/AndroidStudioProjects/androidquiz-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_103d94078641444aaacbaf91470b5627ec15d72b/classes.dex" />
+    </item>
+
+</items>
